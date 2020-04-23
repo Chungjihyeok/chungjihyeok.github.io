@@ -14,6 +14,7 @@ _drafts
 *.swp
 *.vi
 *~
+*.json
 
 # OS or Editor folders
 .DS_Store
